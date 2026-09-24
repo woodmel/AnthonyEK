@@ -18,10 +18,17 @@ Outils utilisés : Python (nettoyage, pré-traitement, agrégation, visualisatio
 # Insights Clés (Résultats)
 Une robustesse nationale face à la saisonnalité : Le système est structurellement excédentaire en moyenne mensuelle, mais la consommation est très saisonnalisée avec de forts pics hivernaux liés au chauffage.
 Des tensions conjoncturelles plutôt que structurelles : L'année 2022 a été particulièrement critique avec un écart production-consommation réduit (54 MW d'excédent annuel), principalement en raison d'une indisponibilité exceptionnelle du parc nucléaire et de la crise énergétique européenne.
+
+![Evolution annuelle consommation vs production](Dataviz.png)
+
 Des spécialisations territoriales très hétérogènes : 
 Des régions comme la Bourgogne-Franche-Comté ou la Bretagne sont très dépendantes des renouvelables en proportion.
+![Volumes absolus de production renouvelable par région](Dataviz3.png)
+
 Le mix renouvelable varie fortement : l'Occitanie et PACA sont dominées par l'hydraulique (pilotable), tandis que les Hauts-de-France et les Pays de la Loire dépendent massivement de l'éolien (intermittent).
 Le paradoxe du verdissement : L'augmentation de la part des énergies renouvelables complexifie le phasage temporel, rendant le système de plus en plus dépendant des moyens de production pilotables (nucléaire, hydraulique, thermique) pour combler les creux de production.
+
+![Composition du mix électrique](Dataviz2.png)
 
 # Recommandations Métier & Stratégiques
 Pour sécuriser durablement l'équilibre du réseau, l'analyse des données mène aux recommandations suivantes :
